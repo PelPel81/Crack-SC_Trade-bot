@@ -3,7 +3,7 @@
 Кряк работает на всех ботов. Их 3 (SCTbot, SCSbot, SCBbot)
 В боте (SCTbot) есть 14 угроз (https://www.virustotal.com/gui/file/2b66a0e6383aa0f769e37a1679e178c0c98db84f51d1967f0c8113faac22e4df). Ссылку оставлю на бота в тг и на гугл диск (ссылка взята из тг бота) с ботом SCTbot. В тг можно скачать архив с нужным ботом 
 
-@stalcraftbotsbot
+@stalcraftbotsbot | https://drive.google.com/file/d/1aNs50VtBy0hImwZOJpIvTTRexU_8hDtc/view?clckid=3b1e54ca 
 Чтобы скачать выбираешь SCTbot и скачиваешь по ссылке. Инструкция в боте. Запускать не от имени администратора
 
 Redirect c отвечает за переадресацию вызовов бота на локальный сервер. В папке с ним обязательно должны быть файлы WinDivert64.sys и WinDivert.dll. exe файл запускать от имени администратора!
